@@ -1,0 +1,43 @@
+body{
+  background-color: #fff;
+}
+
+.Toast{
+  background:white;
+  border-left: 1rem solid #8a8a8a;
+  border-radius: 0.5rem;
+  box-shadow: 0.125rem 0.125rem 0.25rem rgba(0,0,0.25);
+display: flex;
+font-family: Arial, Helvetica, sans-serif;
+justify-content: space-between;
+padding:1rem;
+margin: auto;
+width: 35rem;
+}
+
+.Toast-success{
+  border-color: #008554;
+}
+
+.Toast-warning{
+  border-color: #FFC627;
+}
+
+.Toast-error{
+  border-color: #D14229;
+}
+
+.Toast_message-text{
+  margin-bottom: 0;
+}
+
+.Toast-button{
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size:inherit;
+  margin-left: 1rem;
+  padding: 0;
+  cursor: pointer;
+  color: indigo;
+}

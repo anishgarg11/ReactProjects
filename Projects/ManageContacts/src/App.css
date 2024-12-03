@@ -1,0 +1,84 @@
+.App{
+    text-align: center;
+}
+
+.App-logo{
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference){
+    .App-logo{
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.App-header{
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link{
+    color: #61dafb;
+
+}
+
+.header{
+    font-weight: 1500;
+    font-size: 50px;
+    border: 2px solid;
+    background-color: #8E0625;
+    color: white;
+    text-align: center;
+}
+
+.formHeader{
+    margin-left: 12px;
+}
+
+.add-contact{
+    font-size: initial;
+    font-weight: 10px;
+    font-family: fantasy;
+    margin-left: 12px;
+}
+
+.btn{
+    border-color: cadetblue;
+    color: red;
+}
+
+.ContactHeader{
+    font-size: medium;
+    font-weight: 500;
+    font-family: system-ui;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+
+.add-contact{
+    font-size: initial;
+    font-weight: 500;
+    font-family: fantasy;
+}
+
+input{
+    width: 50%;
+    margin-bottom: 5px;
+}
+
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid;
+    background: #FDEEF2;
+    margin-bottom: 2px;
+    margin-left: 12px;
+    margin-right: 5px;
+}

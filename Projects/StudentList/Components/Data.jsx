@@ -1,0 +1,74 @@
+export default[
+    {
+        id:1,
+        name:"Anish Garg", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Ashish Garg", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Avinash", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Anju", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Aman", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Anshita", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"gaurav", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Ashutosh", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Bhavik", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Tanu Dadhwal", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Anish Garg ", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    },
+    {
+        id:1,
+        name:"Anish Garg", 
+        age:23,
+        image:"https://t4.ftcdn.net/jpg/05/91/40/47/360_F_591404733_XI6dw0OZMfxCsZLqzmY8BcWbzf2QwZdK.jpg"
+    }
+]
